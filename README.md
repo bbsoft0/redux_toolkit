@@ -46,7 +46,7 @@ root.render(
    </Provider>
  </StrictMode>
 );
-
+```
 page.tsx We can read the state and update it using the UseSelector and UseDispatch provided by ReactJS-Redux Hook
 ```
 const Page = () => {
